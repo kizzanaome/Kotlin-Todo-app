@@ -2,10 +2,11 @@ package com.noma.todoapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.LinearLayout
-import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.noma.todoapp.data.ActivityAdapter
+import com.noma.todoapp.data.ActivityModel
+import com.noma.todoapp.data.ActivityStatus
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

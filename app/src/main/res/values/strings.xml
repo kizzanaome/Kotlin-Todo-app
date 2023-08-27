@@ -3,4 +3,7 @@
     <string name="country1">Uganda</string>
     <string name="Jog">Jogging</string>
     <string name="date">2023-08-24</string>
+    <string name="description">I went to the market.\nI bought a lot of glossaries including;\nonions which were my favourite.
+    </string>
+    <string name="complete">Mark as complete</string>
 </resources>
