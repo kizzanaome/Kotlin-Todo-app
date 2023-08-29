@@ -6,4 +6,11 @@
     <string name="description">I went to the market.\nI bought a lot of glossaries including;\nonions which were my favourite.
     </string>
     <string name="complete">Mark as complete</string>
+    <string name="float_button_name">Add Todo</string>
+    <string name="upload_image">UPLOAD IMAGE</string>
+    <string name="save_name">SAVE</string>
+    <string name="todo_name">To do name</string>
+    <string name="todo_description">To do Description</string>
+    <string name="todo_date">To do Date</string>
+    <string name="add_button">Create Item</string>
 </resources>
